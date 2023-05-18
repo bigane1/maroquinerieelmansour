@@ -191,7 +191,7 @@ include 'shared/header.php';
                 <div class="block-contents">
                     <div class="section-title">
                         <span>Service</span>
-                        <h3>POUR NOS CLIENTS, PLUS QUE DES PRESTATAIRES, DES PARTENAIRES !
+                        <h3>POUR NOS CLIENTS, PLUS QUE DES VENDEURS, DES PARTENAIRES !
                         </h3>
                     </div>
                  </div>
@@ -201,14 +201,13 @@ include 'shared/header.php';
 
             <div class="col-md-6 col-12 col-lg-4 mt-30">
                 <div class="single-service-box style-1">
-                    <div class="service-bg bg-cover" style="background-image: url('assets/img/services/b.png')"></div>
+                    <div class="service-bg bg-cover" style="background-image: url('assets/img/services/b.jpg')"></div>
                     <div class="icon">
                         <i class="flaticon-team"></i>
                     </div>
                     <div class="contents">
-                        <h4><a>Tarifs Transparents</a></h4>
-                        <p>Nous tenons à être clair et transparent dès le début. Tarif donné par téléphone ou sur place après étude de vos besoins.
-                            Appel et déplacement gratuit.
+                        <h4><a>Lien humain & proximité géographique</a></h4>
+                        <p>Les produits d’Au Cœur des Racines sont élaborés et fabriqués au Maroc par des petits producteurs certifiés et respectueux de la Nature.
                         </p>
                     </div>
                 </div>
@@ -220,10 +219,8 @@ include 'shared/header.php';
                         <i class="flaticon-24-hours"></i>
                     </div>
                     <div class="contents">
-                        <h4><a>Disponible 24H/24 et 7J/7</a></h4>
-                        <p>Une Urgence ? Un Dépannage ? Ou pour tout problème informatique. Nous sommes disponible à tout moment de la journée, N'hésitez pas à nous contacter.</p>
-                        <b>Intervention rapide.</b>
-
+                        <h4><a>Un concentré de nature</a></h4>
+                        <p>Priorité aux produits riches en plantes, pour vous apporter ce que la nature a de mieux à offrir.</p>
                     </div>
                 </div>
             </div>
@@ -234,10 +231,8 @@ include 'shared/header.php';
                         <i class="flaticon-blueprint"></i>
                     </div>
                     <div class="contents">
-                        <h4><a>Entreprise</a></h4>
-                        <p>Après étude de votre besoin, nous vous proposerons toujours un devis avant intervention. Pour garantir la plus grande transparence possible..</p>
-                        <b>Pas de mauvaises surprises .</b>
-
+                        <h4><a>Eco-responsabilité et équité</a></h4>
+                        <p>Vos achats préservent notre qualité de vie et permettent de rémunérer à sa juste valeur le travail remarquable de petits fabricants amoureux du Vivant.</p>
                     </div>
                 </div>
             </div>
@@ -251,7 +246,7 @@ include 'shared/header.php';
             <div class="col-md-8 col-xl-7 offset-xl-1 col-12">
                 <div class="cta-text align-items-center d-md-flex text-center text-md-start">
                     <i class="flaticon-email"></i>
-                    <h2>Vous chercher un Expert en informatique?</h2>
+                    <h2>Vous cherchez des produits artisanaux Bio?</h2>
                 </div>
             </div>
             <div class="col-md-4 text-center text-md-end">
@@ -277,8 +272,7 @@ include 'shared/header.php';
             <div class="col-xl-12 col-12">
                 <div class="testimonial-carousel-active owl-carousel">
                     <div class="single-testimonial-item">
-                        <p>Je suis très satisfait de notre collaboration ! Le discours est clair, les solutions apportées sont efficaces. En moins d'une année et malgré la concurrence dans mon activité, mon site internet en référencement SEO est arrivé en 1ère page Google.
-Je recommande.</p>
+                        <p>J'ai passé une commande la semaine dernière et je suis ravie car les pompons sont magnifiques. Très bonne relation avec EL Mansour. Je recommande vivement sa boutique.</p>
 
                         <h3><b>Fabrice D.</b></h3>
                     </div>
