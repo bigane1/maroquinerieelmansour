@@ -6,12 +6,14 @@
         </div>
         <div class="txt-loading">
                     <span data-text-preloader="Maroquinerie" class="letters-loading">
-                        Maroquinerie
+                    Maroquinerie
+                    </span>
+</br>
+            <span data-text-preloader="El Mansour" class="letters-loading">
+            El Mansour
                     </span>
 
-                     <span data-text-preloader="EL Mansour"  class="letters-loading">
-                        EL Mansour
-                    </span>
+
         </div>
         <p class="text-center">Chargement</p>
     </div>
@@ -119,23 +121,21 @@
                                 <li><a href="index.php">Accueil</a></li>
 
                                 <li><a href="index.php">Artisanat <i class="fal fa-plus"></i></a>
-                    <ul class="sub-menu">      
-                        <li><a href="potrie.php">Potrie</a></li>
-                        <li><a href="sites_web.php">Dinanderie</a></li>
-                        <li><a href="dinanderie.php">Maroquinerie</a></li>         
-                        
-                        <li><a href="potrie.php">Vannerie</a></li>
-                        <li><a href="sites_web.php">Joaillerie & Orfèvrerie</a></li>
-                        <li><a href="dinanderie.php">Tissage des tapis</a></li>  
-                        <li><a href="dinanderie.php">Bijouterie</a></li>  
-                   </ul>
-                </li>
- <li><a href="agence.php">Agence</a></li>
-<li><a href="potrie.php">potrie</a></li>
-<li><a href="contact.php">Contact</a></li>                             
+                                <ul class="sub-menu">      
+                                    <li><a href="potrie.php">Potrie</a></li>
+                                    <li><a href="sites_web.php">Dinanderie</a></li>
+                                    <li><a href="dinanderie.php">Maroquinerie</a></li>         
+                                    
+                                    <li><a href="potrie.php">Vannerie</a></li>
+                                    <li><a href="sites_web.php">Joaillerie & Orfèvrerie</a></li>
+                                    <li><a href="dinanderie.php">Tissage des tapis</a></li>  
+                                    <li><a href="dinanderie.php">Bijouterie</a></li>  
+                                 </ul>
+                                    </li>
+                                    <li><a href="produit.php">Produits</a></li> 
+                                    <li><a href="contact.php">Contact</a></li>                             
                                 </ul>
                             </nav>
-
                             <div class="action-bar">
                                 <a href="mailto:biganeway@gmail.com"><i
                                             class="fal fa-envelope"></i>contact@maroquinerieelmansour.com</a>
