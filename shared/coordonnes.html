@@ -1,0 +1,33 @@
+       
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script>
+           function sendWhatsAppMessage() {
+        const phoneNumber = '0663630737';
+        const message = ID de la ligne ;
+        const apiUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
+        window.open(apiUrl, '_blank');
+      }
+    </script>
+    </head>
+<body>
+       <div class="member-contact-info">
+                            <div class="single-contact">
+                                <p> Les frais de ports ne sont pas inclus dans les prix.
+                                    Pour toute commande contactez nous:</p>
+                                <h6><button  type="button" onclick=sendWhatsAppMessage() ><i class="fab fa-whatsapp"></i></button> <t>Téléphone</h6>
+                                <p>+673 853 605 985</p>
+                            </div>
+                            <div class="single-contact">
+                                <h6>Email</h6>
+                                <p>info@example.com</p>
+                            </div>
+                            <div class="single-contact">
+                                <h6>Location</h6>
+                                <p>7300-7398 Colonial Rd, Brooklyn, <br>NY 11209</p>
+                            </div>
+                        </div>
+</body>
+
+</html>

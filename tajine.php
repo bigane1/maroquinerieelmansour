@@ -35,7 +35,22 @@ include 'shared/head.php';
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- template main style css file -->
     <link rel="stylesheet" href="style.css">
-    
+    <script>
+//     function myFunction() {
+//         console.info("demo");
+//         const phoneNumber = '0663630737';
+//         const message = "ID de la ligne" ;
+// //     const apiUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
+// }
+
+// function     sendWhatsAppMessage(id) {
+//     const phoneNumber = '0663630737';
+//     const message = ID de la ligne : ${id};
+//     const apiUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
+//     window.open(apiUrl, '_blank');
+//   }
+
+</script>
 </head>
 
 <body class="body-wrapper">
@@ -61,31 +76,14 @@ include 'shared/header.php';
                         <div class="member-info">
                             <h2>Tajine Marocaine</h2>
                             <span>Tajine</span>
-                            <p>Tajine Marocaine Marrakech, Tajine Pot En Terre Cuite pour cuisiner Maroc Induction  </p>
-
-                            <div class="social-profiles">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                            <p>Tajine Marocaine Marrakech, Tajine pot en terre cuite pour cuisiner Maroc induction  </p>
+                            <?php
+                            include 'shared/social.php';
+                            ?>
                         </div>
-                        <div class="member-contact-info">
-                            <div class="single-contact">
-                                <p> Les frais de ports ne sont pas inclus dans les prix.
-                                    Pour toute commande contactez nous:</p>
-                                <h6>Téléphone</h6>
-                                <p>+212 6 09 29 96 60</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Email</h6>
-                                <p>contact@maroquinerieelmansour.com</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Location</h6>
-                                <p>44 place des nations unies 20000 Casablanca - Maroc</p>
-                            </div>
-                        </div>
+                        <?php
+                            include 'shared/coordonnes.php';
+                         ?>
                     </div>
                 </div>
             </div>

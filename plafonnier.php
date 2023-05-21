@@ -63,29 +63,14 @@ include 'shared/header.php';
                             <span>1500 DH</span>
                             <p>Le luminaire MARRAKECH est un plafonnier à suspension idéal pour illuminer votre salon, votre chambre ou même votre extérieur. Votre boutique de décoration en ligne Artisanat Maroc Marrakech vous propose ce luminaire, fait main par des maîtres artisans marocains de Fes, 
                                 qui va vous permettre d’embellir votre source de lumière à petit prix. Dimensions :Hauteur : 56 CM  </p>
-                            <div class="social-profiles">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                                <?php
+                            include 'shared/social.php';
+                            ?>
                         </div>
-                        <div class="member-contact-info">
-                            <div class="single-contact">
-                                <p> Les frais de ports ne sont pas inclus dans les prix.
-                                    Pour toute commande contactez nous:</p>
-                                <h6>Téléphone</h6>
-                                <p>+212 6 09 29 96 60</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Email</h6>
-                                <p>contact@maroquinerieelmansour.com</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Location</h6>
-                                <p>44 place des nations unies 20000 Casablanca - Maroc</p>
-                            </div>
-                        </div>
+                        <?php
+                            include 'shared/coordonnes.php';
+                         ?>
+   
                     </div>
                 </div>
             </div>

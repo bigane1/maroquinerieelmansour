@@ -50,9 +50,9 @@ Parmi les poteries réputées du Maroc, il y a la célèbre poterie de Tamegrout
                             </div>
                         </div>
 
-                        <blockquote>
-                        Nous savons d'où nous venons et notre exigence sera la même quelle que soit la taille de votre entreprise.
-                        </blockquote>
+                        <?php
+                        include 'shared/annotation.php';
+                        ?>
                     </div>
 
                  </div>

@@ -62,30 +62,13 @@ include 'shared/header.php';
                             <h2>Assiette de Safi</h2>
                             <span>Assiette</span>
                             <p>Ensemble d'assiettes peintes à la main uniques fabriquées au Maroc pour décor marocain traditionnel | Ensemble d'assiettes Boho faites à la main</p>
-
-                            <div class="social-profiles">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                            <?php
+                            include 'shared/social.php';
+                            ?>
                         </div>
-                        <div class="member-contact-info">
-                            <div class="single-contact">
-                                <p> Les frais de ports ne sont pas inclus dans les prix.
-                                    Pour toute commande contactez nous:</p>
-                                <h6>Phone</h6>
-                                <p>+673 853 605 985</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Email</h6>
-                                <p>info@example.com</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Location</h6>
-                                <p>7300-7398 Colonial Rd, Brooklyn, <br>NY 11209</p>
-                            </div>
-                        </div>
+                        <?php
+                            include 'shared/coordonnes.php';
+                         ?>
                     </div>
                 </div>
             </div>

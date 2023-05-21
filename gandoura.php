@@ -63,29 +63,13 @@ include 'shared/header.php';
                             <span>800 DH</span>
                             <p>Un beau produit artisanal MArocain. Très confortable et chaud, avec capuche, parfait pour l'hiver. Longueur : 180 cm (70,86") Largeur : 112 cm (44,09") 
                             </p>
-                            <div class="social-profiles">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                            <?php
+                            include 'shared/social.php';
+                            ?>
                         </div>
-                        <div class="member-contact-info">
-                            <div class="single-contact">
-                                <p> Les frais de ports ne sont pas inclus dans les prix.
-                                    Pour toute commande contactez nous:</p>
-                                <h6>Téléphone</h6>
-                                <p>+212 6 09 29 96 60</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Email</h6>
-                                <p>contact@gandouraelmansour.com</p>
-                            </div>
-                            <div class="single-contact">
-                                <h6>Location</h6>
-                                <p>44 place des nations unies 20000 Casablanca - Maroc</p>
-                            </div>
-                        </div>
+                        <?php
+                            include 'shared/coordonnes.php';
+                         ?>
                     </div>
                 </div>
             </div>

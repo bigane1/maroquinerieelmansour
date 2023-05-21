@@ -20,7 +20,7 @@
                             </div>
                             <div class="single-contact-info" bidden >
                                 <div class="icon">
-                                    <i class="fal fa-phone"></i>
+                                    <i class="fal fa-phone-square"></i>
                                 </div>
                                 <div class="contact-info">
                                     <p>+212 6 09 29 96 60</p>
@@ -63,12 +63,12 @@
                 <div class="col-sm-6 col-xl-4 offset-xl-1 col-12">
                     <div class="single-footer-wid newsletter_widget">
                         <div class="wid-title">
-                            <h3>Devis</h3>
+                            <h3>Contactez-nous</h3>
                         </div>
                         <div class="newsletter_box">
                             <form action="#">
                                 <i class="fal fa-envelope"></i>
-                                <a href="contact.php" class="submit-btn" type="submit">Faire un devis <i
+                                <a href="contact.php" class="submit-btn" type="submit">Contactez-nous <i
                                         class="fas fa-paper-plane"></i></a>
                             </form>
                         </div>
@@ -77,8 +77,10 @@
             </div>
         </div>
     </div>
-    <!-- <iframe src="https://maps.google.com/maps?q=52%20rue%20paul%20cezanne%20carrieres&t=&z=13&ie=UTF8&iwloc=&output=embed" height="300"  style="width:100%;border:0;" allowfullscreen="" loading="lazy"></iframe> -->
-   <div class="footer-cta-wrapper">
+    <iframe src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=44%20place%20des%20Nations%20Unies%2020000%20+(44%20place%20des%20Nations%20Unies%2020000%20)&amp;ie=UTF8&amp;t=&amp;z=10&amp;iwloc=B&amp;output=embed" height="300"  style="width:100%;border:0;" allowfullscreen="" loading="lazy"></iframe> 
+   
+
+        <div class="footer-cta-wrapper">
         <div class="container">
 
             <div class="footer-cta-bg-wrapper">
@@ -92,15 +94,10 @@
                     </div>
                     <div class="col-lg-4 col-md-5 ps-lg-0 offset-lg-1 col-12">
                         <div class="footer-middle-text mt-4 mb-4 mt-md-0 mb-md-0 text-white">
-                            <p>Besoin d'un Devis ? D'informarions ?
-
-                                N'Hésitez plus !
-
-                                Contactez-nous
-
-                                Vous Souhaitez Être Appelé par Notre Equipe ?
-
-                                Réponse le Jour Même !.</p>
+                            <p>Besoin d'un devis ? d'informarions ?
+                                vous souhaitez être appelé par notre équipe ?
+                                réponse le jour même !
+                                n'hésitez plus ! contactez-nous</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-lg-4 col-12">

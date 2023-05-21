@@ -3358,6 +3358,10 @@
     content: "\f3a5"
 }
 
+.fa-honey-pot:before {
+    content: "\f22d"
+}
+
 .fa-genderless:before {
     content: "\f22d"
 }
@@ -6807,6 +6811,10 @@
 }
 
 .fa-sun-cloud:before {
+    content: "\f763"
+}
+
+.fa-diamond:before {
     content: "\f763"
 }
 

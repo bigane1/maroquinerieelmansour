@@ -26,7 +26,7 @@ include 'shared/header.php';
                                 data-wow-duration="1.3s">Artisanat traditionnel revisité
 							</h4>
                             <a href="contact.php" class="theme-btn me-sm-4 wow fadeExpert Débouchage CanalisationsInLeft" data-wow-duration="1.2s"
-                               data-wow-delay=".8s">Devis gratuit</a>
+                               data-wow-delay=".8s">Contactez-nous</a>
                             <a class="theme-btn me-sm-4 wow fadeInLeft" data-wow-duration="1.2s"
                                data-wow-delay=".8s">+212 6 09 29 96 60 </a>
                             <a class="theme-btn me-sm-4 wow fadeInLeft" data-wow-duration="1.2s"
@@ -47,18 +47,23 @@ include 'shared/header.php';
                     <div class="project-tabs-wrapper">
                         <ul class="nav nav-pills" id="pills-tab" role="tablist">
                             <li class="nav-item" role="presentation">
-                              <button class="nav-link active" id="pills-tab1" data-bs-toggle="pill" data-bs-target="#pills-tab-1" type="button" role="tab" aria-controls="pills-tab-1" aria-selected="true"><i class="flaticon-notebook"></i>Potrie</button>
+                              <button class="nav-link active" id="pills-tab1" data-bs-toggle="pill" data-bs-target="#pills-tab-1" type="button" role="tab" aria-controls="pills-tab-1" aria-selected="true">
+                               <i class="fal fa-mortar-pestle"></i> Potrie</button>
                             <li class="nav-item" role="presentation">
-                              <button class="nav-link" id="pills-tab2" data-bs-toggle="pill" data-bs-target="#pills-tab-2" type="button" role="tab" aria-controls="pills-tab-2" aria-selected="false"><i class="flaticon-construction-tool-vehicle-with-crane-lifting-materials"></i>Dinanderie</button>
+                              <button class="nav-link" id="pills-tab2" data-bs-toggle="pill" data-bs-target="#pills-tab-2" type="button" role="tab" aria-controls="pills-tab-2" aria-selected="false">
+                              <i class="fal fa-lightbulb"></i>Dinanderie</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                              <button class="nav-link" id="pills-tab3" data-bs-toggle="pill" data-bs-target="#pills-tab-3" type="button" role="tab" aria-controls="pills-tab-3" aria-selected="false"><i class="flaticon-operation"></i> Maroquinerie</button>
+                              <button class="nav-link" id="pills-tab3" data-bs-toggle="pill" data-bs-target="#pills-tab-3" type="button" role="tab" aria-controls="pills-tab-3" aria-selected="false"> 
+                              <i class="fal fa-shoe-prints"></i>Maroquinerie</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                              <button class="nav-link" id="pills-tab4" data-bs-toggle="pill" data-bs-target="#pills-tab-4" type="button" role="tab" aria-controls="pills-tab-4" aria-selected="false"><i class="flaticon-bar-chart"></i> Tapis</button>
+                              <button class="nav-link" id="pills-tab4" data-bs-toggle="pill" data-bs-target="#pills-tab-4" type="button" role="tab" aria-controls="pills-tab-4" aria-selected="false"> 
+                              <i class="fal fa-cut"></i>Tissage des Tapis</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                              <button class="nav-link" id="pills-tab5" data-bs-toggle="pill" data-bs-target="#pills-tab-5" type="button" role="tab" aria-controls="pills-tab-5" aria-selected="false"><i class="flaticon-bar-chart"></i> Bijoux</button>
+                              <button class="nav-link" id="pills-tab5" data-bs-toggle="pill" data-bs-target="#pills-tab-5" type="button" role="tab" aria-controls="pills-tab-5" aria-selected="false"> 
+                              <i class="fal fa-gem"></i>Bijoux</button>
                             </li>
                         </ul>
 
@@ -75,7 +80,7 @@ include 'shared/header.php';
                                                 Rendez-vous à Safi pour découvrir des poteries uniques en leur genre, multicolores.
                                                 À Azemmour, les femmes artisanes ont leur propre structure. À Salé, se trouve le complexe des potiers, l'Oulja.
                                             </p>
-                                            <a href="project-details.html">Produits <i class="fas fa-long-arrow-right"></i></a>
+                                            <a href="produit.php">Produits <i class="fas fa-long-arrow-right"></i></a>
                                         </div>
                                         <div class="col-lg-6 col-12">
                                             <div class="tab-img">
@@ -97,7 +102,7 @@ include 'shared/header.php';
                                             <p>La dinanderie apparût au Maroc au XIIe siècle et devient une véritable spécialité à partir du XIVe siècle. Elle désigne le travail artistique du cuivre, du laiton, de l’argent, du plomb, du fer-blanc, de l’étain, du maillechort ou de l’aluminium, au moyen de différents outils dont principalement les marteaux. Les artisans font fondre le métal, puis le martèlent ou le cisèlent pour fabriquer des objets utilitaires et décoratifs, fascinants, fruits du génie et savoir-faire des Maâllems marocains : plateaux ronds « Soigni », des bouilloires, des théières, des boîtes à thé et sucre, des chandeliers, des casseroles, des luminaires, des marmites, des fontaines en cuivre …etc.
                                                 À l’échelle régionale, Tiznit prend la relève avec en particulier, un cachet typiquement régional donnant lieu à des articles artisanaux ruraux dont l’irremplaçable marmite appelée ‘’Tikinte’’ présente dans la totalité des foyers traditionnels de la région.
                                             </p>
-                                            <a href="project-details.html">Produits <i class="fas fa-long-arrow-right"></i></a>
+                                            <a href="produit.php">Produits <i class="fas fa-long-arrow-right"></i></a>
                                         </div>
                                         <div class="col-lg-6 col-12">
                                             <div class="tab-img">
@@ -118,7 +123,7 @@ include 'shared/header.php';
                                             <p>Le cuir marocain est réputé depuis des siècles à travers le monde. C’est d’ailleurs au XIVe siècle que l’on commence à entendre parler du “maroquin”, mot qui désigne le cuir de chèvre et de mouton provenant du Maroc, d’où encore la maroquinerie, soit le métier qui concerne la confection de babouches, sandales, poufs, porte-monnaie, ceintures, ou encore sacs, vêtements, chapeaux …etc.
                                                 La florescence de la maroquinerie nationale est très liée à un autre corps de métier préalable, c’est celui de la tannerie dont les techniques sont restées inchangées depuis mille ans.
                                             </p>
-                                            <a href="project-details.html">Produits <i class="fas fa-long-arrow-right"></i></a>
+                                            <a href="produit.php">Produits <i class="fas fa-long-arrow-right"></i></a>
                                         </div>
                                         <div class="col-lg-6 col-12">
                                             <div class="tab-img">
@@ -139,7 +144,7 @@ include 'shared/header.php';
                                             <p>Le tissage des tapis est presque une industrie de pointe à Tiznit. Le tapis Tizniti est passionnément confectionné à la maison ou par d’innombrables femmes regroupées dans plusieurs coopératives régionales.
                                                Pouvant s’adapter à différents climats, les tapis dans les montagnes ont de plus grandes boucles pour fournir davantage de protection contre le froid tandis que d’autres sont faits avec un tissage plus fin pour contrer la chaleur de l’été. Vous pourrez admirer le travail consciencieux de plusieurs femmes qui confectionnent manuellement des tapis et qui sont regroupées en coopératives localisées au cœur de Tiznit.
                                             </p>
-                                            <a href="project-details.html">Produits <i class="fas fa-long-arrow-right"></i></a>
+                                            <a href="produit.php">Produits <i class="fas fa-long-arrow-right"></i></a>
                                         </div>
                                         <div class="col-lg-6 col-12">
                                             <div class="tab-img">
@@ -158,7 +163,7 @@ include 'shared/header.php';
                                             <p>Au Maroc, Il y a les bijoux citadins et les bijoux ruraux. Les premiers sont généralement en or finement ciselé de motifs. Ils sont réalisés par des artisans groupés dans des quartiers spécialisés des grandes villes.
                                                Les ruraux sont fabriqués, avec de l’argent, au sud du pays, notamment à Agadir, Goulimine, Laâyoune, Taroudant et Essaouira mais principalement à Tiznit. Les régions du Sud sont réputées pour leurs bijoux en argent émaillé, souvent décorés : collier, bracelets, bagues, fibules, parures, boucles, ceinture (Mdamma) etc… Les objets de l’artisanat sont tous produits à la main, avec des machines et des outils restés largement traditionnels. Les maîtres artisans y mettent beaucoup de finesse et minutie, ce qui donne à chaque réalisation un caractère de pièce unique et de parfaite authenticité.
                                             </p>                 
-                                            <a href="project-details.html">Produits<i class="fas fa-long-arrow-right"></i></a>
+                                            <a href="produit.php">Produits<i class="fas fa-long-arrow-right"></i></a>
                                         </div>
                                         <div class="col-lg-6 col-12">
                                             <div class="tab-img">
@@ -207,7 +212,7 @@ include 'shared/header.php';
                     </div>
                     <div class="contents">
                         <h4><a>Lien humain & proximité géographique</a></h4>
-                        <p>Les produits d’Au Cœur des Racines sont élaborés et fabriqués au Maroc par des petits producteurs certifiés et respectueux de la Nature.
+                        <p>Les produits d’au cœur des racines sont élaborés et fabriqués au Maroc par des petits producteurs certifiés et respectueux de la Nature.
                         </p>
                     </div>
                 </div>
@@ -216,7 +221,7 @@ include 'shared/header.php';
                 <div class="single-service-box style-1">
                     <div class="service-bg bg-cover" style="background-image: url('assets/img/services/a.png')"></div>
                     <div class="icon">
-                        <i class="flaticon-24-hours"></i>
+                        <i class="fal fa-leaf"></i>
                     </div>
                     <div class="contents">
                         <h4><a>Un concentré de nature</a></h4>
@@ -228,7 +233,7 @@ include 'shared/header.php';
                 <div class="single-service-box style-1">
                     <div class="service-bg bg-cover" style="background-image: url('assets/img/services/c.png')"></div>
                     <div class="icon">
-                        <i class="flaticon-blueprint"></i>
+                        <i class="fal fa-recycle"></i>
                     </div>
                     <div class="contents">
                         <h4><a>Eco-responsabilité et équité</a></h4>

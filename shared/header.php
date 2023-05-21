@@ -8,12 +8,10 @@
                     <span data-text-preloader="Maroquinerie" class="letters-loading">
                     Maroquinerie
                     </span>
-</br>
-            <span data-text-preloader="El Mansour" class="letters-loading">
-            El Mansour
+                    </br>
+                    <span data-text-preloader="El Mansour" class="letters-loading">
+                    El Mansour
                     </span>
-
-
         </div>
         <p class="text-center">Chargement</p>
     </div>
@@ -41,13 +39,13 @@
         <div class="offset-menu-header">
             <div class="offset-menu-logo">
                 <a href="index.php"><img style="width: 120px;" src="assets/img/logo.png" alt="logo"></a>
-                <div>Support Informatique, Assistance Technique aux Entreprises
+                <div>Vous cherchez des produits artisanaux Bio?
                 </div>
             </div>
         </div>
         <div class="offset-menu-section">
-            <h3>A prôpos de nous</h3>
-            <p>Prestataire de services informatiques - Intervention 7J/7</p>
+            <h3>A propos de nous</h3>
+            <p>Artisanat traditionnel revisité</p>
             <a href="contact.php" class="theme-btn  mt-30">Contact</a>
         </div>
         <div class="offset-menu-section">
@@ -83,25 +81,24 @@
                 <ul>
                     <li><a href="index.php">Accueil</a></li>
                     <li><a href="intro.php">Intro</a></li>
-                    <li><a href="index.php">Boutique<i class="fal fa-plus"></i></a>
+                    <li><a href="index.php">Activité<i class="fal fa-plus"></i></a>
                     <ul class="sub-menu">      
                         <li><a href="potrie.php">Potrie</a></li>
                         <li><a href="dinanderie.php">Dinanderie</a></li>
-                        <li><a href="dinanderie.php">Maroquinerie</a></li>         
+                        <li><a href="maroquinerie.php">Maroquinerie</a></li>         
                         
-                        <li><a href="potrie.php">Vannerie</a></li>
-                        <li><a href="sites_web.php">Joaillerie & Orfèvrerie</a></li>
-                        <li><a href="dinanderie.php">Tissage des tapis</a></li>  
-                        <li><a href="dinanderie.php">Bijouterie</a></li>  
+                        <li><a href="vannerie.php">Vannerie</a></li>
+                        <li><a href="bijoux.php">Joaillerie & Orfèvrerie</a></li>
+                        <li><a href="tissage.php">Tissage des tapis</a></li>  
                    </ul>
                 </li>
                 <li><a href="produit.php">Produits</a></li>
-                <li><a href="contact.php">Contact</a></li>
+                <!-- <li><a href="contact.php">Contact</a></li> -->
                 </ul>
             </div>
             <div class="header-right-elements d-flex align-items-center justify-content-between">
 
-                 <a href="contact.php" class="theme-btn d-none d-sm-block">Devis Gratuit</a>
+                 <a href="contact.php" class="theme-btn d-none d-sm-block">Contactez-nous</a>
 
 
                 <a href="contact.php" class="devis theme-btn d-none d-sm-block">+212 6 09 29 96 60  </a>
@@ -119,18 +116,17 @@
                             <nav class="sidebar-nav">
                                 <ul class="metismenu" id="mobile-menu">
                                 <li><a href="index.php">Accueil</a></li>
-
-                                <li><a href="index.php">Artisanat <i class="fal fa-plus"></i></a>
+                                <li><a href="intro.php">Intro</a></li>
+                                <li><a href="index.php">Activité <i class="fal fa-plus"></i></a>
                                 <ul class="sub-menu">      
-                                    <li><a href="potrie.php">Potrie</a></li>
-                                    <li><a href="sites_web.php">Dinanderie</a></li>
-                                    <li><a href="dinanderie.php">Maroquinerie</a></li>         
-                                    
-                                    <li><a href="potrie.php">Vannerie</a></li>
-                                    <li><a href="sites_web.php">Joaillerie & Orfèvrerie</a></li>
-                                    <li><a href="dinanderie.php">Tissage des tapis</a></li>  
-                                    <li><a href="dinanderie.php">Bijouterie</a></li>  
-                                 </ul>
+                                        <li><a href="potrie.php">Potrie</a></li>
+                                        <li><a href="dinanderie.php">Dinanderie</a></li>
+                                        <li><a href="maroquinerie.php">Maroquinerie</a></li>         
+                                        
+                                        <li><a href="vannerie.php">Vannerie</a></li>
+                                        <li><a href="bijoux.php">Joaillerie & Orfèvrerie</a></li>
+                                        <li><a href="tissage.php">Tissage des tapis</a></li>  
+                                </ul>
                                     </li>
                                     <li><a href="produit.php">Produits</a></li> 
                                     <li><a href="contact.php">Contact</a></li>                             

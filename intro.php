@@ -38,16 +38,16 @@ En résumé, maroquinerieelmansour est bien plus qu'un simple marché. C'est une
                         </p>             
                         <div class="row">
                             <div class="col-md-6 col-12">
-                                <a href="assets/img/agence/agence.jpg" class="popup-gallery"><img src="assets/img/agence/agence.jpg" alt=""></a>
+                                <a href="assets/img/agence/agence02.jpg" class="popup-gallery"><img src="assets/img/agence/agence02.jpg" alt=""></a>
                             </div>
                             <div class="col-md-6 col-12">
-                                <a href="assets/img/agence/agence01.jpg" class="popup-gallery"><img src="assets/img/agence/agence01.jpg" alt=""></a>
-                            </div>
+                                <a href="assets/img/agence/agence03.jpg" class="popup-gallery"><img src="assets/img/agence/agence03.jpg" alt=""></a>
+                            </div> 
                         </div>
 
 
                         <blockquote>
-                        Nous savons d'où nous venons et notre exigence sera la même quelle que soit la taille de votre entreprise.
+                        POUR NOS CLIENTS, PLUS QUE DES VENDEURS, DES PARTENAIRES !.
                         </blockquote>
                     </div>
 
