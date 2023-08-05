@@ -98,7 +98,7 @@ include 'shared/header.php';
 
                 <div class="col-lg-4 col-md-6 grid-item Dinanderie">
                     <div class="project-item-card">
-                        <a href="assets/img/Dinanderie/plafonnier01.jpg" class="d-block popup-link"><img src="assets/img/Dinanderie/plafonnier01.jpg" alt=""></a>
+                        <a href="assets/img/dinanderie/plafonnier01.jpg" class="d-block popup-link"><img src="assets/img/dinanderie/plafonnier01.jpg" alt=""></a>
                         <div class="contents">
                             <a href="plafonnier.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>MARRAKECH – PLAFONNIER EN CUIVRE</span>
@@ -107,10 +107,20 @@ include 'shared/header.php';
                         </div>
                     </div>    
                 </div>
-
                 <div class="col-lg-4 col-md-6 grid-item Dinanderie">
                     <div class="project-item-card">
-                        <a href="assets/img/Dinanderie/plafonnier06.jpg" class="d-block popup-link"><img src="assets/img/Dinanderie/plafonnier06.jpg" alt=""></a>
+                        <a href="assets/img/dinanderie/abajour01.jpg" class="d-block popup-link"><img src="assets/img/dinanderie/abajour01.jpg" alt=""></a>
+                        <div class="contents">
+                            <a href="abajour.php" class="project-link"><i class="fal fa-plus"></i></a>
+                            <span>3 abat-jour artisanaux marocains </span>
+                            <h3><a href="abajour.php">kit de trois</a></h3>
+                            <p>350 DH</p>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col-lg-4 col-md-6 grid-item Dinanderie">
+                    <div class="project-item-card">
+                        <a href="assets/img/dinanderie/plafonnier06.jpg" class="d-block popup-link"><img src="assets/img/dinanderie/plafonnier06.jpg" alt=""></a>
                         <div class="contents">
                             <a href="plafonnier01.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>DIVA – PLAFONNIER EN CUIVRE</span>
@@ -122,7 +132,7 @@ include 'shared/header.php';
 
                 <div class="col-lg-4 col-md-6 grid-item Dinanderie">
                     <div class="project-item-card">
-                        <a href="assets/img/Dinanderie/theiere01.jpg" class="d-block popup-link"><img src="assets/img/Dinanderie/theiere01.jpg" alt=""></a>
+                        <a href="assets/img/dinanderie/theiere01.jpg" class="d-block popup-link"><img src="assets/img/dinanderie/theiere01.jpg" alt=""></a>
                         <div class="contents">
                             <a href="theiere.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>BERRAD – THÉIÈRE ARTISANALE EN CUIVRE NICKELÉ</span>
@@ -137,20 +147,52 @@ include 'shared/header.php';
                         <a href="assets/img/maroquinerie/sac01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sac01.jpg" alt=""></a>
                         <div class="contents">
                             <a href="sac.php" class="project-link"><i class="fal fa-plus"></i></a>
-                            <span>MARRAKECH – PLAFONNIER EN CUIVRE</span>
-                            <h3><a href="plafonnier.php">PLAFONNIER H: 56 CM </a></h3>
-                            <p>1500 DH</p>
+                            <span>SAC EN CUIVRE</span>
+                            <h3><a href="sac.php">SAC H: 30 CM </a></h3>
+                            <p>600 DH</p>
                         </div>
                     </div>    
                 </div>
-
+                <div class="col-lg-4 col-md-6 grid-item maroquinerie">
+                    <div class="project-item-card">
+                        <a href="assets/img/maroquinerie/sacuni01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sacuni01.jpg" alt=""></a>
+                        <div class="contents">
+                            <a href="sacuni.php" class="project-link"><i class="fal fa-plus"></i></a>
+                            <span>SAC EN CUIVRE</span>
+                            <h3><a href="sacuni.php">SAC 20 x 15 CM </a></h3>
+                            <p>500 DH</p>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col-lg-4 col-md-6 grid-item maroquinerie">
+                    <div class="project-item-card">
+                        <a href="assets/img/maroquinerie/sacmain01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sacmain01.jpg" alt=""></a>
+                        <div class="contents">
+                            <a href="sacmain.php" class="project-link"><i class="fal fa-plus"></i></a>
+                            <span>SAC Ä MAIN EN CUIVRE</span>
+                            <h3><a href="sacmain.php">SAC 30 x 20 CM </a></h3>
+                            <p>600 DH</p>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col-lg-4 col-md-6 grid-item maroquinerie">
+                    <div class="project-item-card">
+                        <a href="assets/img/maroquinerie/portefeuille01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/portefeuille01.jpg" alt=""></a>
+                        <div class="contents">
+                            <a href="portefeuille.php" class="project-link"><i class="fal fa-plus"></i></a>
+                            <span>portefeuille EN CUIVRE</span>
+                            <h3><a href="portefeuille.php">PORTEFEUIL 15 CM </a></h3>
+                            <p>300 DH</p>
+                        </div>
+                    </div>    
+                </div>
                 <div class="col-lg-4 col-md-6 grid-item maroquinerie">
                     <div class="project-item-card">
                         <a href="assets/img/maroquinerie/babouch01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/babouch01.jpg" alt=""></a>
                         <div class="contents">
                             <a href="babouche.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>Babouche berbère traditionnelle bout rond cuir rouge</span>
-                            <h3><a href="plafonnier01.php">Babouche berbère</a></h3>
+                            <h3><a href="babouche.php">Babouche berbère</a></h3>
                             <p>260 DH</p>
                         </div>
                     </div>    
@@ -162,7 +204,7 @@ include 'shared/header.php';
                         <div class="contents">
                             <a href="pouf.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>BELDI – POUF ARTISANAL MAROCAIN EN CUIR</span>
-                            <h3><a href="theiere.php">Hauteur : 28 CM Diamètre :  42 CM</a></h3>
+                            <h3><a href="pouf.php">Hauteur : 28 CM Diamètre :  42 CM</a></h3>
                             <p>700 DH</p>
                         </div>
                     </div>    
@@ -174,7 +216,7 @@ include 'shared/header.php';
                         <div class="contents">
                             <a href="tapis.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>Tapis marocain Kilim rouge</span>
-                            <h3><a href="plafonnier.php">Longueur: 1.5m Largeur: 1.5m </a></h3>
+                            <h3><a href="tapis.php">Longueur: 1.5m Largeur: 1.5m </a></h3>
                             <p>290 DH</p>
                         </div>
                     </div>    
@@ -186,7 +228,7 @@ include 'shared/header.php';
                         <div class="contents">
                             <a href="coussin.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>Coussin Kilim traditionnel</span>
-                            <h3><a href="plafonnier01.php">Longueur:50 CM Largeur:30 CM</a></h3>
+                            <h3><a href="coussin.php">Longueur:50 CM Largeur:30 CM</a></h3>
                             <p>350 DH</p>
                         </div>
                     </div>    
@@ -198,7 +240,7 @@ include 'shared/header.php';
                         <div class="contents">
                             <a href="gandoura.php" class="project-link"><i class="fal fa-plus"></i></a>
                             <span>Gandoura pour homme avec capuche</span>
-                            <h3><a href="theiere.php">Taille unique</a></h3>
+                            <h3><a href="gandoura.php">Taille unique</a></h3>
                             <p>500 DH</p>
                         </div>
                     </div>    

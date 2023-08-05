@@ -251,7 +251,7 @@ include 'shared/header.php';
             <div class="col-md-8 col-xl-7 offset-xl-1 col-12">
                 <div class="cta-text align-items-center d-md-flex text-center text-md-start">
                     <i class="flaticon-email"></i>
-                    <h2>Vous cherchez des produits artisanaux Bio?</h2>
+                    <h2>Vous cherchez des produits artisanaux?</h2>
                 </div>
             </div>
             <div class="col-md-4 text-center text-md-end">

@@ -21,7 +21,7 @@ include 'shared/header.php';
                     <div class="breadcrumb-wrap">
                         <nav>
                             <ol class="breadcrumb">
-                              <li class="breadcrumb-item">Besoin d’une information ou d’un conseil ?</li>
+                              <li class="breadcrumb-item">Besoin d’une information ou d’un conseil?</li>
                              </ol>
                         </nav>
                     </div>

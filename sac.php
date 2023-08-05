@@ -79,7 +79,7 @@ include 'shared/header.php';
 
 <div class="col-lg-4 col-md-6 grid-item plafonnier">
      <div class="project-item-card">
-         <a href="assets/img/maroquinerie/sac01.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sac01.jpg" alt=""></a>
+         <a href="assets/img/maroquinerie/sac04.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sac04.jpg" alt=""></a>
      </div>    
  </div>
  <div class="col-lg-4 col-md-6 grid-item plafonnier">
@@ -90,7 +90,8 @@ include 'shared/header.php';
  <div class="col-lg-4 col-md-6 grid-item plafonnier">
      <div class="project-item-card">
          <a href="assets/img/maroquinerie/sac03.jpg" class="d-block popup-link"><img src="assets/img/maroquinerie/sac03.jpg" alt=""></a>
-     </div>    
+     </div>  
+
  </div>
 
         </div>

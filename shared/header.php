@@ -38,8 +38,8 @@
     <div class="offset-menu-wrapper text-white">
         <div class="offset-menu-header">
             <div class="offset-menu-logo">
-                <a href="index.php"><img style="width: 120px;" src="assets/img/logo.png" alt="logo"></a>
-                <div>Vous cherchez des produits artisanaux Bio?
+                <a href="index.php"><img style="width: 135px;" src="assets/img/logo.png" alt="logo"></a>
+                <div>Vous cherchez des produits artisanaux?
                 </div>
             </div>
         </div>

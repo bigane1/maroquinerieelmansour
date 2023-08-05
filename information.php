@@ -1,4 +1,4 @@
-<div class="col-lg-3 col-12">
+<div class="col-lg-4 col-12">
     <div class="contact-us-sidebar mt-5 mt-lg-0">
         <div class="contact-info">
             <h2>CONTACT INFORMATION</h2>
@@ -10,7 +10,7 @@
                     <span>Email</span>
 
                 </div>
-                <h6 style="    font-size: 15px;">contact@maroquinerieelmansour.com</h6>
+                <h6 style="font-size: 12px;">contact@maroquinerieelmansour.com</h6>
             </div>
             <div class="single-info">
                 <div class="icon">
